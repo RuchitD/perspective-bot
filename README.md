@@ -6,3 +6,5 @@
 
 ![alt text](https://i.imgur.com/rvcCqkj.png)
 ![alt text](https://i.imgur.com/e0sHscS.png)
+
+Bot code cannot be uploaded yet because it contains sensitive information
